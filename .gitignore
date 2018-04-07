@@ -12,3 +12,5 @@ build.properties
 libs
 */dist/modules
 *.xcuserdatad
+node_modules
+android/java-sources.txt
